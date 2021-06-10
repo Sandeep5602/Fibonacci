@@ -1,2 +1,0 @@
-# Fibonacci
-Developed by Sandeep
